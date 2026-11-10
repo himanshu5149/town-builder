@@ -1,0 +1,26 @@
+
+# Isometric Town Builder
+
+> Play Isometric Town Builder online.
+
+## About
+Isometric Town Builder is a browser-based
+town-building game.
+
+## Website
+https://town-builder.sharmahimanshu.com.np/
+
+## Main Game
+https://town-builder.sharmahimanshu.com.np/
+
+## Game Information
+- Game type: Building and simulation
+- Platform: Web browser
+- Access: Online
+
+## Content
+The website provides access to its town-building
+game and relevant gameplay information.
+
+## Contact
+Visit the website for available contact information.
